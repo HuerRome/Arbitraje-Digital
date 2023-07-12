@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&family=Fira+Code&family=Inspiration&family=Inter:wght@300&family=Montserrat:wght@700&family=PT+Mono&family=Poppins:wght@300&family=Roboto:wght@300&family=Shadows+Into+Light&family=Sora:wght@300;400;600;800&display=swap');
+/*fira-code*/
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&family=Fira+Code:wght@300;400&family=Inspiration&family=Inter:wght@300&family=Montserrat:wght@700&family=PT+Mono&family=Poppins:wght@300&family=Roboto:wght@300&family=Shadows+Into+Light&family=Sora:wght@300;400;600;800&display=swap');
+
+:root{
+    color-scheme: light;
+    --background-color: #fff;
+    --color: #415462;
+    --h1-color: #1b2832;
+    --h2-color: #24333e;
+    --h3-color: #2c3d49;
+    --h4-color: #374956;
+    --h5-color: #415462;
+    --h6-color: #4d606d;
+    --muted-color: #73828c;
+    --muted-border-color: #edf0f3;
+    --primary: #1095c1;
+    --primary-hover: #08769b;
+    --primary-focus: rgba(16, 149, 193, .125);
+    --primary-inverse: #fff;
+    --secondary: #596b78;
+    --secondary-hover: #415462;
+    --secondary-focus: rgba(89, 107, 120, .125);
+    --secondary-inverse: #fff;
+    --contrast: #1b2832;
+    --contrast-hover: #000;
+    --contrast-focus: rgba(89, 107, 120, .125);
+    --contrast-inverse: #fff;
+    --mark-background-color: #fff2ca;
+    --mark-color: #543a26;
+    --ins-color: #388e3c;
+    --del-color: #c62828;
+    --button-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    --button-hover-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    --form-element-border-color: #a2afb9;
+    --form-element-color: var(--color);
+    --form-element-disabled-background-color: #d5dce2;
+    --form-element-disabled-border-color: #a2afb9;
+    --form-element-invalid-border-color: #c62828;
+    --form-element-invalid-active-border-color: #d32f2f;
+    --form-element-invalid-focus-color: rgba(211, 47, 47, .125);
+    --form-element-valid-border-color: #388e3c;
+    --form-element-valid-active-border-color: #43a047;
+    --form-element-valid-focus-color: rgba(67, 160, 71, .125);
+    --switch-background-color: #bbc6ce;
+    --range-border-color: #d5dce2;
+    --range-active-border-color: #bbc6ce;
+    --table-row-stripped-background-color: #f6f8f9;
+    --code-background-color: #edf0f3;
+    --code-tag-color: #b34d80;
+    --code-property-color: #3d888f;
+    --code-value-color: #986;
+    --code-comment-color: #a2afb9;
+    --card-box-shadow: 0 .125rem 1rem rgba(27, 40, 50, .04), 0 .125rem 2rem rgba(27, 40, 50, .08), 0 0 0 .0625rem rgba(27, 40, 50, .024);
+    --card-sectionning-background-color: #fbfbfc;
+    --modal-overlay-background-color: rgba(213, 220, 226, .8);
+    --progress-background-color: #d5dce2;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    /*color: #fafafa;*/
+    box-sizing: border-box;
+    font-family: "Fira Code",Poppins ,Arial, Helvetica, sans-serif;
+    font-family: Poppins ,Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 100%;
+    background-color: #005466;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
